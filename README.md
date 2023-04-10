@@ -1,7 +1,7 @@
 # network-visualizer
 Generate beautiful 3d images of your network from OmniPeek Expert Flow Statistics csv files. 
 
-Yes, that means go to liveaction.com and get a trial of Omnipeek for Windows. You will love it
+Yes, that means go to https://liveaction.com and get a trial of Omnipeek for Windows. You will love it
 
 Install Node.js and npm:
 To get started with React, you need to have Node.js and npm installed on your computer. Download the latest version of Node.js from https://nodejs.org/ and follow the installation instructions.
