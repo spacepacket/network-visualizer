@@ -14,9 +14,10 @@ cd network-visualizer
 npm install react-force-graph
 
 Open the src/App.js file and replace its content with the following code with the code in App.js in this repo
+
 Open the src/App.cs file and replace its content with the following code with the code in App.cs in this repo
 
-run npm start
+run: npm start
 
 
 
