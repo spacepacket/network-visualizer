@@ -17,3 +17,5 @@ Open the src/App.js file and replace its content with the following code with th
 Open the src/App.css file and replace its content with the following code with the code in App.css in this repo
 
 run: npm start
+
+In the browser, open the ExpertFlowStatistics.csv file from this repo.
